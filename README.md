@@ -14,16 +14,19 @@ By analyzing user-provided health metrics, the system leverages trained machine 
 - Predicts the risk of **Diabetes** using factors like glucose levels, BMI, and age.
 - Assesses the likelihood of **Heart Disease** using metrics such as cholesterol levels, blood pressure, and chest pain type.
 - Detects the probability of **Parkinson's Disease** based on voice-related attributes.
-- User-friendly interface for inputting health metrics and viewing results.
+- **Streamlit-based Web Interface** for an intuitive and user-friendly experience.
+- **Hosted Application**: Try the system live [here](https://multiplehealthdiseasegit-8mdfyqjobzo7gz8zxdyd4b.streamlit.app/).
 
 ---
 
 ## Technologies Used
-- **Programming Language**: Python
-- **Libraries**:
-  - **NumPy**: For numerical computations.
-  - **Pandas**: For data manipulation and analysis.
-  - **Scikit-learn**: For machine learning model training and evaluation.
- 
----
+
+### Programming Tools and Libraries
+- **Python**: Core programming language for model development and deployment.
+- **Jupyter Notebook**: Used for training machine learning models and experimentation.
+- **Streamlit**: For creating and deploying the interactive web application.
+- **NumPy**: For numerical computations.
+- **Pandas**: For data manipulation and analysis.
+- **Scikit-learn**: For implementing machine learning algorithms.
+
 
